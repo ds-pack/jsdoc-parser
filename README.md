@@ -1,6 +1,6 @@
-# Project Template
+# JSDoc Parser
 
-Make sure to update this with the right documentation!
+A package for parsing JSDoc comments
 
 ### Tools:
 
