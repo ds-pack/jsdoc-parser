@@ -1,6 +1,6 @@
 {
   "name": "@ds-pack/jsdoc-parser",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "dist/index.js",
   "source": "src/index.ts",
   "repository": "git@github.com:ds-pack/jsdoc-parser.git",
@@ -11,8 +11,7 @@
     "test": "jest",
     "test-watch": "jest --watch",
     "test-cov": "jest --collectCoverage",
-    "prepub": "yarn build",
-    "pub": "yarn prepub && yarn npm publish --access public"
+    "pub": "yarn build && yarn npm publish --access public"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
