@@ -1,8 +1,7 @@
 {
   "name": "@ds-pack/jsdoc-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
-  "source": "src/index.ts",
   "repository": "git@github.com:ds-pack/jsdoc-parser.git",
   "author": "Matt Hamlin <matthewjameshamlin@gmail.com>",
   "license": "MIT",
